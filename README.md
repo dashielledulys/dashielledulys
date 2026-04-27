@@ -1,5 +1,12 @@
-## Hi there 👋
+<h1 align="center">Привет, я Дарья!👋
+<h3 align="center">Аналитик данных | Data analyst
+<h3 align="center">Продуктовый аналитик | Product analyst
 
+<h3 align="center"<a href="https://t.me/DashielleDuLys" target="_blank">
+  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a> <a href="mailto:dashielle.dulis@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 <!--
 **dashielledulys/dashielledulys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
