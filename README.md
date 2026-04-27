@@ -44,17 +44,30 @@
     <em>В свободное время собираю статистику по росту доли акигалвуда в новинках Квентина Биша и накладываю лайн-чарты хроматограмм оригиналов на "вдохновленные" ими парфюмы.</em>
   </p>
 </div>
-<!--
-**dashielledulys/dashielledulys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<hr style="border: 0.5px solid #444; margin: 25px 0;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <h3>Языки и инструменты:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB&color=FFFFFF" alt="Python">
+    <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=00758F&color=FFFFFF" alt="SQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=336791&color=FFFFFF" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=150458&color=FFFFFF" alt="Pandas">
+    <img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=4D77CF&color=FFFFFF" alt="NumPy">
+    <img src="https://img.shields.io/badge/SciPy-FFFFFF?style=for-the-badge&logo=scipy&logoColor=F79F33&color=FFFFFF" alt="SciPy">
+    <img src="https://img.shields.io/badge/Plotly-FFFFFF?style=for-the-badge&logo=plotly&logoColor=F2A52B&color=FFFFFF" alt="Plotly">
+    <img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=seaborn&logoColor=3776AB&color=FFFFFF" alt="Seaborn">
+    <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=11557C&color=FFFFFF" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/DataLens-FFFFFF?style=for-the-badge&logo=yandex&logoColor=FF6F00&color=FFFFFF" alt="DataLens">
+    <img src="https://img.shields.io/badge/Redash-FFFFFF?style=for-the-badge&logo=redash&logoColor=FF3300&color=FFFFFF" alt="Redash">
+    <img src="https://img.shields.io/badge/Google_Sheets-FFFFFF?style=for-the-badge&logo=googlesheets&logoColor=0F9D58&color=FFFFFF" alt="Google Sheets">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&color=217346" alt="Excel">
+    <img src="https://img.shields.io/badge/Jupyter-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=F37726&color=FFFFFF" alt="Jupyter">
+    <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032&color=FFFFFF" alt="Git">
+</div>
+  <hr style="border: 0.2px solid #444; margin: 25px 0;">
+
+  <div align="left">
+  <h3>Мои проекты:</h3>
+  <p>
